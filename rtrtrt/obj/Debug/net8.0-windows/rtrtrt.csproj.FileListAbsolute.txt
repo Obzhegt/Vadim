@@ -1,0 +1,42 @@
+C:\scripts\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.exe
+C:\scripts\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.deps.json
+C:\scripts\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.runtimeconfig.json
+C:\scripts\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.dll
+C:\scripts\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.pdb
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfoInputs.cache
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfo.cs
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.csproj.CoreCompileInputs.cache
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.dll
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\refint\rtrtrt.dll
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.pdb
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.genruntimeconfig.cache
+C:\scripts\rtrtrt\obj\Debug\net8.0-windows\ref\rtrtrt.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.exe
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.deps.json
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.runtimeconfig.json
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.pdb
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfoInputs.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfo.cs
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.csproj.CoreCompileInputs.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\refint\rtrtrt.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.pdb
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.genruntimeconfig.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\ref\rtrtrt.dll
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.exe
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.dll
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\bin\Debug\net8.0-windows\rtrtrt.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.dll
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\refint\rtrtrt.dll
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\rtrtrt.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\rtrtrt\obj\Debug\net8.0-windows\ref\rtrtrt.dll
