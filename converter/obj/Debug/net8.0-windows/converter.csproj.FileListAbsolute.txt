@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\converter\bin\Debug\net8.0-windows\converter.exe
+C:\Users\Admin\Desktop\converter\bin\Debug\net8.0-windows\converter.deps.json
+C:\Users\Admin\Desktop\converter\bin\Debug\net8.0-windows\converter.runtimeconfig.json
+C:\Users\Admin\Desktop\converter\bin\Debug\net8.0-windows\converter.dll
+C:\Users\Admin\Desktop\converter\bin\Debug\net8.0-windows\converter.pdb
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.AssemblyInfo.cs
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.dll
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\refint\converter.dll
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.pdb
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\converter.genruntimeconfig.cache
+C:\Users\Admin\Desktop\converter\obj\Debug\net8.0-windows\ref\converter.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\bin\Debug\net8.0-windows\converter.exe
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\bin\Debug\net8.0-windows\converter.deps.json
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\bin\Debug\net8.0-windows\converter.runtimeconfig.json
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\bin\Debug\net8.0-windows\converter.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\bin\Debug\net8.0-windows\converter.pdb
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.AssemblyInfoInputs.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.AssemblyInfo.cs
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.csproj.CoreCompileInputs.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\refint\converter.dll
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.pdb
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\converter.genruntimeconfig.cache
+C:\Users\obzhe\OneDrive\Рабочий стол\converter\obj\Debug\net8.0-windows\ref\converter.dll
